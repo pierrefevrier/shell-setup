@@ -19,7 +19,7 @@
 - La liste des features : https://iterm2.com/features.html
   - Killing feature : supporte par défaut le thème Dark Solarized (ce qui n'est pas la cas du terminal par défaut sur MacOS)
 - Installer via homebrew : `brew cask install iterm2`
-- Installer le thème `agnoster`(suivre le chapitre #todo)
+- Installer le thème `agnoster`(suivre le chapitre #oh-my-zsh-1)
   - Pour que l'affichage soit correct (la barre du path dans le prompt), aller dans les préférences de iTerm
     - `Profiles > Default > Text > Font` : `Meslo LG M for Powerline`
   - Pour activer le thème Dark Solarized (couleurs douces dans le terminal), aller dans les préférences de iTerm
